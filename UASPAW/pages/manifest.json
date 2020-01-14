@@ -1,0 +1,50 @@
+{
+	"name"				: "MYFOOD",
+	"short_name"		: "FOOD ",
+	"start_url"			: "/UASPAW/index.html",
+	"display" 			: "standalone",
+	"background_color" 	: "#FFE9D2",
+	"theme_color" 		: "#FFE1C4",
+	"icons" 			: [
+		{
+			"src" 		: "/UASPAW/icons/cook 16x16.png",
+			"type"		: "image/png",
+			"sizez"		: "16x16"
+		},
+		{
+			"src" 		: "/UASPAW/icons/cook 24x24.png",
+			"type"		: "image/png",
+			"sizez"		: "24x24"
+		},
+		{
+			"src" 		: "/UASPAW/icons/cook 32x32.png",
+			"type"		: "image/png",
+			"sizez"		: "32x32"
+		},
+		{
+			"src" 		: "/UASPAW/icons/cook 64x64.png",
+			"type"		: "image/png",
+			"sizez"		: "64x64"
+		},
+		{
+			"src" 		: "/UASPAW/icons/cook 128x128.png",
+			"type"		: "image/png",
+			"sizez"		: "128x128"
+		},
+		{
+			"src" 		: "/UASPAW/icons/cook 144x144.png",
+			"type"		: "image/png",
+			"sizez"		: "144x144"
+		},
+		{
+			"src" 		: "/UASPAW/icons/cook 256x256.png",
+			"type"		: "image/png",
+			"sizez"		: "256x256"
+		},
+		{
+			"src" 		: "/UASPAW/icons/cook 512x512.png",
+			"type"		: "image/png",
+			"sizez"		: "512x512"
+		}
+	]
+}
